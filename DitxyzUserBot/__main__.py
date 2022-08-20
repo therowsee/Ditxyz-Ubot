@@ -5,7 +5,7 @@
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
 #
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/DitxyzSupport & t.me/Pyzn0de
 
 from pyrogram import idle
 from uvloop import install
@@ -15,10 +15,10 @@ from ProjectMan import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
 from ProjectMan.helpers.misc import create_botlog, git, heroku
 
 MSG_ON = """
-🔥 **PyroMan-Userbot Berhasil Di Aktifkan**
+(つ●~●)つ **Ditxyz-UserBot Udah Aktif Nih Ngab**
 ━━
 ➠ **Userbot Version -** `{}`
-➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
+➠ **Ketik** `{}alive` **Coba Cek Bot Nya**
 ━━
 """
 
@@ -41,7 +41,7 @@ async def main():
             )
         except Exception as a:
             LOGGER("main").warning(a)
-    LOGGER("ProjectMan").info(f"PyroMan-UserBot v{BOT_VER} [🔥 BERHASIL DIAKTIFKAN! 🔥]")
+    LOGGER("ProjectMan").info(f"Ditxyz-UserBot v{BOT_VER} [×͜× UDAH AKTIF NIH PAKE YANG BENER!×͜×]")
     if not str(BOTLOG_CHATID).startswith("-100"):
         await create_botlog(bot1)
     await idle()
@@ -49,7 +49,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("ProjectMan").info("Starting PyroMan-UserBot")
+    LOGGER("ProjectMan").info("Starting Ditxyz-UserBot")
     install()
     git()
     heroku()
