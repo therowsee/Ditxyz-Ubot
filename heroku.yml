@@ -1,0 +1,5 @@
+build: 
+  docker:
+      PyroMan-UserBot: Dockerfile
+run:
+   PyroMan-UserBot: bash start
