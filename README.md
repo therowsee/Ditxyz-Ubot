@@ -1,9 +1,8 @@
-# PyroMan-Userbot Telegram
+# Ditxyz-Userbot Telegram
 
-PyroMan-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
+Ditxyz-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
-Saya membuat repository ini untuk bersenang-senang sekaligus membantu anda mengelola grup secara efisien dan untuk membantu mengurangi kebosanan saat menggunakan telegram.
-
+REPO INI ADALAH REPO HASIL CLONE SAYANG DARI PYROMAN-USERBOT
 ## ⚠️ Disclaimer
 
 ```
@@ -14,7 +13,7 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 ```
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://risman.vercel.app/deploy-pyro.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://ditxyz.vercel.app/deploy-pyro.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 
 ## 🖇 Generating Pyrogram String Session
     
@@ -24,20 +23,22 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 
 ## 🏷 Support
 
-- Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot 
-- Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk diskusi, pelaporan bug, dan bantuan tentang PyroMan-Userbot.
+- Follow Channel [@Pyzn0de](https://t.me/Pyzn0de) untuk info Update bot 
+- Gabung Group [@DitxyzSupport](https://t.me/DitxyzSupport) untuk diskusi, pelaporan bug, dan bantuan tentang Ditxyz-Userbot.
 
 ## 👨🏻‍💻 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 -  [Risman](https://github.com/mrismanaziz) for [PyroMan-Userbot](https://github.com/mrismanaziz/PyroMan-Userbot)
+- [Adit](https://github.com/therowsee/) for [Ditxyz-UserBot](https://github.com/therowsee/Ditxyz-Ubot/)
 
-#### Special Thanks To [Everyone](https://github.com/mrismanaziz/PyroMan-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
+#### Special Thanks To [Everyone](https://github.com/therowsee/Ditxyz-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
 -  [TeamDerUntergang](https://github.com/TeamDerUntergang/Telegram-SedenUserBot) : SedenUserBot
 -  [TheHamkerCat](https://github.com/TheHamkerCat/WilliamButcherBot) : WilliamButcherBot
 -  [TeamYukki](https://github.com/TeamYukki/YukkiMusicBot) : YukkiMusicBot
 -  [ITZ-ZAID](https://github.com/ITZ-ZAID) : Zaid-UserBot
 -  [Tofikdn](https://github.com/tofikdn) : Tede
 -  [Toni](https://github.com/Toni880) : Prime-UserBot
+-  [Risman](https://github.com/mrismanaziz/PyroMan-Userbot) : PyroMan-UserBot
 
 ## 📑 License
 Licensed under [GNU General Public License v3.0](https://github.com/mrismanaziz/PyroMan-Userbot/blob/Man-Userbot/LICENSE) All designs were created by [@mrismanaziz](https://github.com/mrismanaziz)
