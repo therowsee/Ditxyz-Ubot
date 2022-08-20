@@ -11,8 +11,8 @@ from pyrogram import idle
 from uvloop import install
 
 from config import BOT_VER, CMD_HANDLER
-from ProjectMan import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
-from ProjectMan.helpers.misc import create_botlog, git, heroku
+from DitxyzUbot import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
+from DitxyzUbot.helpers.misc import create_botlog, git, heroku
 
 MSG_ON = """
 (つ●~●)つ **Ditxyz-UserBot Udah Aktif Nih Ngab**
