@@ -13,7 +13,7 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 ```
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/therowsee/DitMusik/tree/Master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="150""/></a></p>  
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/therowsee/Ditxyz-Userbot/tree/Master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="150""/></a></p>  
 
 
 ## 🖇 Generating Pyrogram String Session
