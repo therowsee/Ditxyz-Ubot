@@ -18,7 +18,7 @@ from git import Repo
 from git.exc import GitCommandError, InvalidGitRepositoryError
 
 from config import BRANCH, GIT_TOKEN, HEROKU_API_KEY, HEROKU_APP_NAME, REPO_URL
-from ProjectMan import LOGGER
+from DitxyzUbot import LOGGER
 
 HAPP = None
 
@@ -128,7 +128,7 @@ async def create_botlog(client):
     LOGGER("ProjectMan").info(
         "TUNGGU SEBENTAR. SEDANG MEMBUAT GROUP LOG USERBOT UNTUK ANDA"
     )
-    desc = "Group Log untuk PyroMan-UserBot.\n\nHARAP JANGAN KELUAR DARI GROUP INI.\n\n✨ Powered By ~ @Lunatic0de ✨"
+    desc = "Group Log untuk PyroMan-UserBot.\n\nHARAP JANGAN KELUAR DARI GROUP INI.\n\n✨ Powered By ~ @Pyzn0de ✨"
     try:
         gruplog = await client.create_supergroup("Log UserBot", desc)
         if await in_heroku():
